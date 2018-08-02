@@ -2,8 +2,11 @@
 نصب :
 
 git clone https://github.com/per-cyber/forchi.git
+
 cd forchi
+
 chmod +x bot
+
 ./bot install
 
 
